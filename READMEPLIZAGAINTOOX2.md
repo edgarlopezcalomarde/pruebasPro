@@ -26,7 +26,9 @@ git reset fichero = git restore --staged fichero
 
 
 
+kgnrtkhnrt
 
 
+VEROGEJG
 
 Probando GIT
