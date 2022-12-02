@@ -1,3 +1,0 @@
-# pruebasPro
-
-Probando GIT
